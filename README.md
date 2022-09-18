@@ -1,2 +1,3 @@
 # Simple Injector
-I think there is no need to explain.
+* Must run as administrator.
+* .dll and .exe must be in same folder and dll must be named as "default.dll"
